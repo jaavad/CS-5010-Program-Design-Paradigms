@@ -1,0 +1,1 @@
+memberSearchIndex = [{"p":"<Unnamed>","c":"Book","l":"Book(String, Person, float)","url":"%3Cinit%3E(java.lang.String,Person,float)"},{"p":"<Unnamed>","c":"Book","l":"getAuthor()"},{"p":"<Unnamed>","c":"Book","l":"getPrice()"},{"p":"<Unnamed>","c":"Book","l":"getTitle()"}]
